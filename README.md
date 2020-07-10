@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on freelancing
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: send email
+- 🔭 I’m currently working on freelancing [<img src="https://img.icons8.com/wired/15/000000/work-from-home.png"/>]()
+- 🌱 I’m currently learning Data Science [<img src="https://img.icons8.com/material-outlined/15/000000/data-.png"/>]()
+- 👯 I’m looking to collaborate on any Python projects
+- 🤔 I’m looking for help with my Data Science knowledge
+- 💬 Ask me about anything, be it tech or non-tech!
+- 📫 Reach me via Twitter [<img src="https://img.icons8.com/fluent/15/000000/twitter.png"/> @YogeshNile](https://bit.ly/3dbLJLC) or [<img src="https://img.icons8.com/color/15/000000/linkedin.png"/> LinkedIn](https://bit.ly/2Ky3ho6).
 - 😄 Pronouns: Python Developer <img src="https://img.icons8.com/color/15/000000/python.png"/>
 - <img src="https://img.icons8.com/fluent/15/000000/find-user-male.png"/> Find more about me: Click on About Me :point_down:
 

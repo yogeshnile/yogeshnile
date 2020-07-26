@@ -8,6 +8,8 @@
 - 😄 Pronouns: Python Developer <img src="https://img.icons8.com/color/15/000000/python.png"/>
 - <img src="https://img.icons8.com/fluent/15/000000/find-user-male.png"/> Find more about me: Click on About Me :point_down:
 
+![Yogesh Nile's github stats](https://github-readme-stats.vercel.app/api?username=yogeshnile&count_private=true&show_icons=true)
+
 <!--
 **yogeshnile/yogeshnile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

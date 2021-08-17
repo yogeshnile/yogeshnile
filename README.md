@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on freelancing [<img src="https://img.icons8.com/wired/15/000000/work-from-home.png"/>]()
 - 🌱 I’m currently learning Cloud Architect [<img src="https://img.icons8.com/officel/15/000000/cloud.png"/>]()
 - 👯 I’m looking to collaborate on any Python and Cloud projects
 - 🤔 I’m looking for help with my Python and Cloud Architect knowledge

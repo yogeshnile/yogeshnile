@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Cloud Architect [<img src="https://img.icons8.com/officel/15/000000/cloud.png"/>]()
 - 👯 I’m looking to collaborate on any Python and Cloud projects
-- 🤔 I’m looking for help with my Python and Cloud Architect knowledge
+- 🤔 I’m looking for help with my Python and AWS knowledge
 - 💬 Ask me about anything, be it tech or non-tech!
 - 📫 Reach me via Twitter [<img src="https://img.icons8.com/fluent/15/000000/twitter.png"/> @YogeshNile](https://bit.ly/3dbLJLC) or [<img src="https://img.icons8.com/color/15/000000/linkedin.png"/> LinkedIn](https://bit.ly/2Ky3ho6).
 - 😄 Pronouns: Python Developer <img src="https://img.icons8.com/color/15/000000/python.png"/>
